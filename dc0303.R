@@ -98,3 +98,7 @@ prop.table(table(trainsplit2$V33))
 #####
 #create new one
 #####
+
+#####
+#create the second one
+#####
